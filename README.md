@@ -1,0 +1,2 @@
+# Stafadu
+Íslenskur stöfunarleikur
